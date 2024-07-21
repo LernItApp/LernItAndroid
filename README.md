@@ -15,4 +15,4 @@ LernItAndroid is completely opensource unlike competitors which means free users
 Just create a detailed pull request and you will probably be accepted.
 
 # License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
