@@ -14,6 +14,7 @@
         android:gravity="center_horizontal"
         android:text="LernIt"
         android:textSize="60dp"
+        android:textColor="?attr/appTitle"
         android:textStyle="bold" />
 
     <LinearLayout
@@ -29,6 +30,7 @@
             android:gravity="center"
             android:text="Log In"
             android:layout_marginBottom="10dp"
+            android:textColor="?attr/appTitle"
             android:textSize="28dp" />
 
         <EditText
@@ -70,6 +72,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="?attr/buttonStyle"
+            android:textColor="?attr/buttonText"
             android:text="Log In"
             app:cornerRadius="10dp" />
 
@@ -78,7 +81,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="?attr/buttonStyle"
+            android:textColor="?attr/buttonText"
             android:text="Sign In With Google"
+            android:layout_marginBottom="10dp"
             app:cornerRadius="10dp" />
 
         <TextView
@@ -86,6 +91,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
+            android:textColor="?attr/appTitle"
             android:textSize="16dp"
 
             android:text="New to LernIt? Sign Up!" />

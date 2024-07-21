@@ -2,7 +2,11 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.LernItAndroid" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <item name="colorPrimary">@color/dark_primary_color</item>
-        <item name="buttonStyle">@color/button_dark_primary_color</item>
+        <item name="appTitle">@color/light</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="buttonStyle">@color/light</item>
+        <item name="buttonText">@color/dark</item>
     </style>
+
+
 </resources>
